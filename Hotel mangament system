@@ -131,5 +131,4 @@ def date(c):
 		checkout.pop(i)
 		Booking()
 
-=======
->>>>>>> b65c65cdb56432ed0c66bd21b816e87403c94c54
+
