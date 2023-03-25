@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import random
 import datetime
 
@@ -55,11 +55,4 @@ def Home():
 	
 	else:
 		exit()
-exit
-done
-hehehe
-hihihihi
-hulululu
-lololololo
-huhuhuhuhu
-okkkkkkkkkkk
+
