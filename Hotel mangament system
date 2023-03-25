@@ -57,7 +57,7 @@ def Home():
 		exit()
 		hehehe
 
-<<<<<<< HEAD
+
 # Function used in booking
 
 def date(c):
