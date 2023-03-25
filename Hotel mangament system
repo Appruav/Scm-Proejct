@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import random
 import datetime
 
@@ -54,3 +55,6 @@ def Home():
 	
 	else:
 		exit()
+=======
+
+>>>>>>> 9e300143d4ebf23ca103e5d1f798f0a0f8e95c7e
